@@ -52,7 +52,7 @@
     "broccoli-merge-trees": "^1.1.1",
     "broccoli-stew": "^1.0.1",
     "ember-cli-babel": "^5.1.6",
-    "fastclick": "humanpractice/fastclick"
+    "fastclick": "Saintless/fastclick#patch-1"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
