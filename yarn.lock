@@ -2087,9 +2087,9 @@ fast-sourcemap-concat@^1.0.1:
     source-map-url "^0.3.0"
     sourcemap-validator "^1.0.5"
 
-fastclick@humanpractice/fastclick#24cea9d90581a207df05f469760c214c7a0aeeb0:
+"fastclick@https://github.com/humanpractice/fastclick#24cea9d90581a207df05f469760c214c7a0aeeb0":
   version "1.0.6"
-  resolved "https://codeload.github.com/humanpractice/fastclick/tar.gz/24cea9d90581a207df05f469760c214c7a0aeeb0"
+  resolved "https://github.com/humanpractice/fastclick#24cea9d90581a207df05f469760c214c7a0aeeb0"
 
 faye-websocket@~0.10.0:
   version "0.10.0"
